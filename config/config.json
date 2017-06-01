@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/spfxaddlistItem/SpfxaddlistItemWebPart.js",
+      "manifest": "./src/webparts/spfxaddlistItem/SpfxaddlistItemWebPart.manifest.json",
+      "outputPath": "./dist/spfxaddlist-item.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "spfxaddlistItemStrings": "webparts/spfxaddlistItem/loc/{locale}.js"
+  }
+}

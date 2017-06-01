@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfxlistoperations-client-side-solution",
+    "id": "4a5ef492-26f7-432e-8c95-0677ba397ae9",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfxlistoperations.sppkg"
+  }
+}

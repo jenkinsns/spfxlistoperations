@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "336c7b5f-b7ce-4545-b3ad-7157d4e0c4f5",
+  "alias": "SpfxaddlistItemWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "336c7b5f-b7ce-4545-b3ad-7157d4e0c4f5",
+    "group": { "default": "Under Development" },
+    "title": { "default": "spfxaddlistItem" },
+    "description": { "default": "spfxaddlistItem description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "spfxaddlistItem"
+    }
+  }]
+}
